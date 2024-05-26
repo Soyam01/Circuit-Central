@@ -12,7 +12,6 @@
 }
 
 .navtext{
-    
     gap: 32px;
     display: inline-flex;
     
@@ -21,7 +20,7 @@
 .Cart_icon{
     object-fit: contain;
     display: inline-flex;
-    margin-left: 410px;
+    margin-left: 400px;
 }
 
 .profile_icon{
@@ -38,5 +37,18 @@
 .slider{
     margin-left: 60px;
     margin-top: 90px;
+    margin-right: 60px;
     object-fit: contain;
 }
+
+.slidertext{
+    display: inline-flex;
+    gap: 260px;
+}
+
+.sliderprice{
+    display: inline-flex;
+    gap: 350px;
+}
+
+
