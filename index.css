@@ -1,41 +1,17 @@
-.navbar{
-    margin: 60px 60px 30px 60px;
-    justify-content: space-between;
-    display: inline-flex;
-    align-items: center;
+@media (min-width: 992px){
+    .navbar-header{
+        margin-left: 400px;
+    }
 }
 
-
-.mainlogo{
-    object-fit: contain;
-    padding-right: 90px;
+@media (min-width: 1400px){
+.navbar-header {
+    margin-left: 1105px;
 }
-
-.navtext{
-    gap: 32px;
-    display: inline-flex;
-    
-}
-
-.Cart_icon{
-    object-fit: contain;
-    display: inline-flex;
-    margin-left: 400px;
-}
-
-.profile_icon{
-    object-fit: contain;
-    display: inline-flex;
-    margin-left: 32px;
-    
-}
-
-.searchbar{
-    margin-left: 230px;
 }
 
 .slider{
-    margin-left: 60px;
+    margin-left: 30px;
     margin-top: 90px;
     margin-right: 60px;
     object-fit: contain;
@@ -43,19 +19,19 @@
 
 .slidertext{
     display: inline-flex;
-    gap: 260px;
+    gap: 280px;
 }
 
 .sliderprice{
     display: inline-flex;
-    gap: 350px;
+    gap: 370px;
 }
 
 .nextslider{
     display: inline-flex;
     object-fit: contain;
     align-items: center;
-    margin-left: 60px;
+    margin-left: 30px;
     margin-top: 60px;
     width: 213px;
     border: none;
@@ -64,7 +40,7 @@
 }
 
 .slider2{
-    margin-left: 60px;
+    margin-left: 30px;
     margin-top: 30px;
     margin-right: 60px;
     object-fit: contain;
@@ -72,10 +48,10 @@
 
 .slidertext2{
     display: inline-flex;
-    gap: 260px;
+    gap: 270px;
 }
 
 .sliderprice2{
     display: inline-flex;
-    gap: 350px;
+    gap: 370px;
 }
