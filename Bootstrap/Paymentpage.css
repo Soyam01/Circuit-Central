@@ -1,0 +1,11 @@
+@media (min-width: 992px){
+    .navbar-header{
+        margin-left: 410px;
+    }
+}
+
+@media (min-width: 1400px){
+.navbar-header {
+    margin-left: 1105px;
+}
+}
